@@ -1,0 +1,133 @@
+body {
+  background-color: #ccffcc;
+}
+
+#errorLogin {
+  color: red;
+}
+
+img {
+  clear: both;
+  margin: auto;
+  display: block;
+  padding-top: 115px;
+}
+
+.izq {
+  float: left;
+  width: 49%;
+  border-right: 1px solid black;
+  overflow: hidden;
+}
+
+#body_index {
+  margin-top: 50px;
+}
+
+.der {
+  float: left;
+  width: 49%;
+}
+
+.der span {
+  margin: 5%;
+  margin-top: 0;
+  padding: 5%;
+  display: block;
+  font-size: 110%;
+}
+
+form.alta_usuario, form#mensaje, form#login, form.filtrarConcesionario {
+  margin: 15px auto;
+  padding: 15px;
+  border: 1px solid gray;
+  text-align: center;
+  width: 250px;
+  background-color: white;
+}
+
+form.alta_usuario, form#mensaje {
+  display: none;
+}
+
+form#mensaje textarea {
+  resize: none;
+}
+
+form label {
+  display: block;
+  margin: 5px auto;
+}
+
+form input[type=submit], form input[type=file], form button, #boton_mensaje {
+  display: block;
+  margin: auto;
+  margin-top: 25px;
+}
+
+input[type=number] {
+  width: 50px;
+}
+
+textarea {
+  height: 150px;
+  width: 225px;
+}
+
+form input {
+  margin: 5px auto;
+}
+
+ul.instrucciones {
+  border: 1px solid gray;
+  background-color: white;
+}
+
+ul.instrucciones li {
+  margin: 5px;
+}
+
+caption {
+  margin: 10px;
+  font-weight: bold;
+}
+
+#filtro {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.boton_pestana {
+  margin: auto;
+  margin-top: 25px;
+  display: block;
+  padding: 15px;
+  width: 95%;
+  font-size: large;
+}
+
+.boton_logout, button.alta_usuario {
+  margin: auto;
+  margin-top: 25px;
+  display: block;
+  padding: 15px;
+}
+
+.contenido_pestana {
+  margin: auto;
+  display: none;
+  width: 95%;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 15px auto;
+  background-color: white;
+}
+
+table td, table th {
+  border: 1px solid gray;
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+}

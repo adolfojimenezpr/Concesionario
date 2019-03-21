@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista>
+	<producto id="3">
+		<nombre>Prod3</nombre>
+		<precio>300</precio>
+		<baja>1</baja>
+	</producto>
+	<producto id="">
+		<nombre>Prod</nombre>
+		<precio>500</precio>
+		<baja>0</baja>
+	</producto>
+</lista>

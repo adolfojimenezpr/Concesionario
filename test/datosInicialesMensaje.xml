@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <table name="mensaje">
+    <column>Id</column>
+    <column>Asunto</column>
+    <column>Descripcion</column>
+    <column>Leido</column>
+    <row>
+      <value>1</value>
+      <value>MsjA</value>
+      <value>Mensaje A</value>
+      <value>0</value>
+    </row>
+    <row>
+      <value>2</value>
+      <value>MsjB</value>
+      <value>Mensaje B</value>
+      <value>0</value>
+    </row>
+    <row>
+      <value>3</value>
+      <value>MsjC</value>
+      <value>Mensaje C</value>
+      <value>0</value>
+    </row>
+  </table>
+</dataset>

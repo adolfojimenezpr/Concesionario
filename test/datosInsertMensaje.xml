@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <mensaje Id="1" Asunto="MsjA" Descripcion="Mensaje A" Leido="0" />
+  <mensaje Id="2" Asunto="MsjB" Descripcion="Mensaje B" Leido="0" />
+  <mensaje Id="3" Asunto="MsjC" Descripcion="Mensaje C" Leido="0" />
+  <mensaje Id="4" Asunto="MsjD" Descripcion="Mensaje D" Leido="0" />
+</dataset>
